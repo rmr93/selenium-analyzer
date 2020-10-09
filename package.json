@@ -1,0 +1,26 @@
+{
+  "name": "selenium-analyzer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmr93/selenium-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rmr93/selenium-analyzer/issues"
+  },
+  "homepage": "https://github.com/rmr93/selenium-analyzer#readme",
+  "dependencies": {
+    "chromedriver": "^86.0.0",
+    "selenium-webdriver": "3.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.10.0"
+  },
+  "engines": {
+    "node": "12.19.0"
+  }
+}
